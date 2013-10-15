@@ -15,5 +15,6 @@ public class Clase1 {
 	}
 	
 	public void m2() {}
+	public void m3() {}	
 	
 }
