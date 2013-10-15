@@ -7,5 +7,10 @@ public class Clase1 {
 		return numero;
 	}
 
-	public void m1(){}
+	public void setNumero(int numero) {
+		this.numero = numero;
+	}
+
+	public void m1() {
+	}
 }
