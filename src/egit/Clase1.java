@@ -7,4 +7,5 @@ public class Clase1 {
 		return numero;
 	}
 
+	public void m1(){}
 }
