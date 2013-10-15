@@ -11,10 +11,11 @@ public class Clase1 {
 		this.numero = numero;
 	}
 
-	public void m1() {
+	public int m1(int numero) {
+		return this.numero+numero;
 	}
 	
 	public void m2() {}
 	public void m3() {}	
-	
+	public void m4() {}		
 }
